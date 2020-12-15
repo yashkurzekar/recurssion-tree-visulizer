@@ -24,7 +24,9 @@ In the root directory, run:
 # Run the app on http://localhost:3000
 > yarn start
 ```
-
+## Check live here 
+   https://recurssion-tree-visulizer.vercel.app/
+   
 ## Acknowledgements
 
 To positionate each node of the tree on 2D plane in an aesthetically pleasing way, I implemented the Reingold-Tilford's algorithm. Thanks to:
